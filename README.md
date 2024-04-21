@@ -2,12 +2,13 @@
 
 <p>Software Engineer from Riga, Latvia 🧊</p>
 
-[Portfolio](https://klavig.lv/)
-
 <ul>
-  <li>🏢 I'm currently working at Intexsys</li>
-  <li>🔥 I develop robust and efficient software solutions using Symfony.</li>
+  <li>🏢 I'm currently working at <a href="https://www.intexsys.lv/">Intexsys</a></li>
+  <li>🔥 I develop robust and efficient software solutions using <a href="https://symfony.com/">Symfony</a>.</li>
 </ul>
+
+<a href="https://klavig.lv/" title="Portfolio"><img src="https://klavig.lv/favicon.svg" width="24" height="24" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/georgijsklavins/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a>
 
 <h2 align="left" id="tech-stack">🔥 Tech stack</h2>
 
