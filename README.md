@@ -1,11 +1,9 @@
 <h1 align="left" id="tech-stack">👋 Hi there, I'm George</h1>
 
-<p>Software Engineer from Riga, Latvia 🧊</p>
-
-<ul>
-  <li>🏢 I'm currently working at <a href="https://www.intexsys.lv/">Intexsys</a></li>
-  <li>🔥 I develop robust and efficient software solutions using <a href="https://symfony.com/">Symfony</a>.</li>
-</ul>
+<p>
+  🧊 Software Engineer from Riga, Latvia<br>
+  🏢 Currently working at <a href="https://www.arvato-systems.com/">Arvato Systems Latvia</a>
+</p>
 
 <a href="https://klavig.lv/" title="Portfolio"><img src="https://klavig.lv/favicon.svg" width="24" height="24" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/georgijsklavins/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a>
