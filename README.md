@@ -1,7 +1,8 @@
 <h1 align="left" id="tech-stack">👋 Hi there, I'm George</h1>
 
 <p>
-  🧊 Software Engineer from Riga, Latvia<br>
+  👶 Born in <a href="https://maps.app.goo.gl/Q9v1bjRuHVQSTZUd6">Rotenburg an der Fulda, Germany</a><br>
+  🧊 Software Engineer from <a href="https://maps.app.goo.gl/a6sL42oi3ZrrfiS16">Riga, Latvia</a><br>
   🏢 Currently working at <a href="https://www.arvato-systems.com/">Arvato Systems Latvia</a>
 </p>
 
