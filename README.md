@@ -217,6 +217,12 @@
       </a>
       <br>Windows
     </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="36" height="36" alt="Mac OS" />
+      </a>
+      <br>Mac OS
+    </td>
   </tr>
 </table>
 
