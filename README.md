@@ -6,7 +6,6 @@
   🏢 Currently working at <a href="https://www.arvato-systems.com/">Arvato Systems Latvia</a>
 </p>
 
-<a href="https://klavig.lv/" title="Portfolio"><img src="https://klavig.lv/favicon.svg" width="24" height="24" alt="Portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/georgijsklavins/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a>
 
 <h2 align="left" id="tech-stack">🔥 Tech stack</h2>
