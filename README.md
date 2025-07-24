@@ -3,7 +3,7 @@
 <p>
   👶 Born in <a href="https://maps.app.goo.gl/Q9v1bjRuHVQSTZUd6">Rotenburg an der Fulda, Germany</a><br>
   🧊 Software Engineer from <a href="https://maps.app.goo.gl/a6sL42oi3ZrrfiS16">Riga, Latvia</a><br>
-  🏢 Currently working at <a href="[https://www.arvato-systems.com/](https://www.zabbix.com/)">Zabbix</a>
+  🏢 Currently working at <a href="https://www.zabbix.com/">Zabbix</a>
 </p>
 
 <a href="https://www.linkedin.com/in/georgijsklavins/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a>
